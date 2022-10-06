@@ -1,12 +1,18 @@
-html {
-    background-color: azure;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Box model</title>
+<link rel="stylesheet" href="activity.css">
+</head>
+<body   
+
+
 div {
     width: 300px;
     height: 200px;
   
     padding: 50px;
-    border: solid 50px black;
+    border: solid 50px rgb(0, 0, 0);
     margin: 50px;
 
     background-color: blue;
